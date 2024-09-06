@@ -1,5 +1,3 @@
-
-
 💻 <b>Sobre o Projeto</b><br><br>
 Clube do Livro API - API REST com funcionalidades de login, registro, listagem, exclusão e edição de livros de uma livraria, como objetivo de estudo!
 <br><br>
@@ -10,11 +8,8 @@ Clube do Livro API - API REST com funcionalidades de login, registro, listagem, 
 - Exclusão de Livros;
 - Edição de Livros;
 - Login;
-
 <br><br>
-
 🛠 <b>Tecnologias</b>
-
 As seguintes tecnologias foram utilizadas no desenvolvimento da API do projeto:
 
 - Java 22
